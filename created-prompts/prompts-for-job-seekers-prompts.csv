@@ -1,0 +1,21 @@
+Prompt name,Prompt text,Slash command
+Resume Summary,"Write a compelling resume summary for a {{job_title}} position, highlighting my {{key_skills}} and {{years_experience}} years of experience.",/resume_summary
+Cover Letter Intro,"Craft an engaging opening paragraph for a cover letter for a {{job_title}} role at {{company_name}}, mentioning my enthusiasm for {{company_mission}}.",/cover_intro
+STAR Method Example,"Describe a situation using the STAR method where I {{action_taken}} resulting in {{positive_outcome}}, demonstrating my {{skill_used}} skill.",/star_example
+Behavioral Question,How would you answer the behavioral question: 'Tell me about a time you {{behavioral_scenario}}'?,/behavioral_q
+Thank You Note,"Compose a thank you email to {{interviewer_name}} after interviewing for the {{job_title}} position, reiterating my interest and mentioning {{specific_point}}.",/thank_you_email
+LinkedIn Headline,Suggest a professional LinkedIn headline that showcases my expertise in {{industry}} and my career goal of {{career_goal}}.,/linkedin_head
+Elevator Pitch,"Create a concise elevator pitch highlighting my background in {{field}}, my passion for {{area_of_interest}}, and my desire to contribute to {{target_company}}.",/elevator_pitch
+Job Search Email,"Draft an email to a recruiter expressing interest in {{job_title}} opportunities at {{company_name}}, referencing my experience with {{relevant_skill}}.",/job_search_email
+Follow Up Email,"Write a follow-up email to {{hiring_manager_name}} regarding my application for the {{job_title}} position, inquiring about the timeline and reiterating my qualifications in {{key_area}}.",/follow_up_email
+Negotiation Strategy,What is a good negotiation strategy to employ when asking for {{salary_expectation}} given that the industry average is {{industry_average}}.,/negotiation_strat
+Skills section,What key skills should I include in my resume when applying for a {{job_title}} role?,/resume_skills
+Resume Action Verbs,"Suggest strong action verbs to describe my accomplishments in my {{previous_role}} role, focusing on {{specific_achievements}}.",/action_verbs
+Address Gaps,"How can I address a {{duration}} gap in my employment history on my resume and during interviews, framing it as a period of {{positive_activity}}?",/address_gaps
+Networking Email,Compose an email to a contact at {{target_company}} requesting an informational interview to learn more about their experience in {{department}}.,/networking_email
+Recruiter Intro,"Craft an introduction to a recruiter, highlighting my experience in {{industry}} and my interest in {{job_type}} roles.",/recruiter_intro
+Ideal Company,"Describe my ideal company culture, emphasizing {{company_values}} and opportunities for {{career_growth}}.",/ideal_company
+Salary Justification,How can I justify my salary expectations of {{desired_salary}} based on my experience in {{skill_area}} and the market rate for {{job_title}} roles?,/salary_justify
+Professional Bio,Create a short professional bio that highlights my key skills: {{list_of_skills}}.,/professional_bio
+Job Application,Tailor a job application to highlight my {{key_skill}} and {{another_key_skill}} skills in order to meet the application requirements of a {{job_title}} role.,/tailor_job_app
+Resume Objective,Write a resume objective statement that highlights my intention to leverage my {{years_experience}} years of experience in {{area_of_expertise}} to the benefit of a {{job_title}} role.,/resume_objective

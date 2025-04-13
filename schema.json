@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+      "Prompt name": {
+        "type": "string"
+      },
+      "Prompt category": {
+        "type": "string"
+      },
+      "Prompt text": {
+        "type": "string"
+      },
+      "Slash command": {
+        "type": "string"
+      }
+    }
+  }

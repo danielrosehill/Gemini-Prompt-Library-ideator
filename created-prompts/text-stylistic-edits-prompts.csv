@@ -1,0 +1,11 @@
+Prompt name,Prompt text,Slash command
+Formal Tone,Rewrite the following text in a formal tone: {{text}},/formalize
+Simplify Text,"Simplify the following text, making it easier to understand: {{text}}",/simplify
+Add Humour,Add a touch of humour to the following text: {{text}},/addhumor
+Make it Persuasive,Rewrite the following text to be more persuasive: {{text}},/persuade
+Use Active Voice,Rewrite the following text using active voice: {{text}},/activevoice
+Concise Rewrite,Rewrite the following text to be more concise: {{text}},/concise
+Emphasize Key Points,Rewrite the following text to emphasize the key points: {{text}},/emphasize
+Professional Tone,Rewrite the following text with a more professional tone: {{text}},/professional
+Casual Tone,Rewrite the following text using a casual tone: {{text}},/casualize
+Make it sound Apologetic,"Rewrite the following text, make it sound more apologetic: {{text}}",/apologize

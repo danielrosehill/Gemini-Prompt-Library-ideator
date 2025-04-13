@@ -1,0 +1,52 @@
+[
+  {
+    "Prompt name": "Formal Tone",
+    "Prompt text": "Rewrite the following text in a formal tone: {{text}}",
+    "Slash command": "/formalize"
+  },
+  {
+    "Prompt name": "Simplify Text",
+    "Prompt text": "Simplify the following text, making it easier to understand: {{text}}",
+    "Slash command": "/simplify"
+  },
+  {
+    "Prompt name": "Add Humour",
+    "Prompt text": "Add a touch of humour to the following text: {{text}}",
+    "Slash command": "/addhumor"
+  },
+  {
+    "Prompt name": "Make it Persuasive",
+    "Prompt text": "Rewrite the following text to be more persuasive: {{text}}",
+    "Slash command": "/persuade"
+  },
+  {
+    "Prompt name": "Use Active Voice",
+    "Prompt text": "Rewrite the following text using active voice: {{text}}",
+    "Slash command": "/activevoice"
+  },
+  {
+    "Prompt name": "Concise Rewrite",
+    "Prompt text": "Rewrite the following text to be more concise: {{text}}",
+    "Slash command": "/concise"
+  },
+  {
+    "Prompt name": "Emphasize Key Points",
+    "Prompt text": "Rewrite the following text to emphasize the key points: {{text}}",
+    "Slash command": "/emphasize"
+  },
+  {
+    "Prompt name": "Professional Tone",
+    "Prompt text": "Rewrite the following text with a more professional tone: {{text}}",
+    "Slash command": "/professional"
+  },
+  {
+    "Prompt name": "Casual Tone",
+    "Prompt text": "Rewrite the following text using a casual tone: {{text}}",
+    "Slash command": "/casualize"
+  },
+  {
+    "Prompt name": "Make it sound Apologetic",
+    "Prompt text": "Rewrite the following text, make it sound more apologetic: {{text}}",
+    "Slash command": "/apologize"
+  }
+]

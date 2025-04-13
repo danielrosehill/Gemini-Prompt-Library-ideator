@@ -1,0 +1,102 @@
+[
+  {
+    "Prompt name": "Resume Summary",
+    "Prompt text": "Write a compelling resume summary for a {{job_title}} position, highlighting my {{key_skills}} and {{years_experience}} years of experience.",
+    "Slash command": "/resume_summary"
+  },
+  {
+    "Prompt name": "Cover Letter Intro",
+    "Prompt text": "Craft an engaging opening paragraph for a cover letter for a {{job_title}} role at {{company_name}}, mentioning my enthusiasm for {{company_mission}}.",
+    "Slash command": "/cover_intro"
+  },
+  {
+    "Prompt name": "STAR Method Example",
+    "Prompt text": "Describe a situation using the STAR method where I {{action_taken}} resulting in {{positive_outcome}}, demonstrating my {{skill_used}} skill.",
+    "Slash command": "/star_example"
+  },
+  {
+    "Prompt name": "Behavioral Question",
+    "Prompt text": "How would you answer the behavioral question: 'Tell me about a time you {{behavioral_scenario}}'?",
+    "Slash command": "/behavioral_q"
+  },
+  {
+    "Prompt name": "Thank You Note",
+    "Prompt text": "Compose a thank you email to {{interviewer_name}} after interviewing for the {{job_title}} position, reiterating my interest and mentioning {{specific_point}}.",
+    "Slash command": "/thank_you_email"
+  },
+  {
+    "Prompt name": "LinkedIn Headline",
+    "Prompt text": "Suggest a professional LinkedIn headline that showcases my expertise in {{industry}} and my career goal of {{career_goal}}.",
+    "Slash command": "/linkedin_head"
+  },
+  {
+    "Prompt name": "Elevator Pitch",
+    "Prompt text": "Create a concise elevator pitch highlighting my background in {{field}}, my passion for {{area_of_interest}}, and my desire to contribute to {{target_company}}.",
+    "Slash command": "/elevator_pitch"
+  },
+  {
+    "Prompt name": "Job Search Email",
+    "Prompt text": "Draft an email to a recruiter expressing interest in {{job_title}} opportunities at {{company_name}}, referencing my experience with {{relevant_skill}}.",
+    "Slash command": "/job_search_email"
+  },
+  {
+    "Prompt name": "Follow Up Email",
+    "Prompt text": "Write a follow-up email to {{hiring_manager_name}} regarding my application for the {{job_title}} position, inquiring about the timeline and reiterating my qualifications in {{key_area}}.",
+    "Slash command": "/follow_up_email"
+  },
+  {
+    "Prompt name": "Negotiation Strategy",
+    "Prompt text": "What is a good negotiation strategy to employ when asking for {{salary_expectation}} given that the industry average is {{industry_average}}.",
+    "Slash command": "/negotiation_strat"
+  },
+  {
+    "Prompt name": "Skills section",
+    "Prompt text": "What key skills should I include in my resume when applying for a {{job_title}} role?",
+    "Slash command": "/resume_skills"
+  },
+  {
+    "Prompt name": "Resume Action Verbs",
+    "Prompt text": "Suggest strong action verbs to describe my accomplishments in my {{previous_role}} role, focusing on {{specific_achievements}}.",
+    "Slash command": "/action_verbs"
+  },
+  {
+    "Prompt name": "Address Gaps",
+    "Prompt text": "How can I address a {{duration}} gap in my employment history on my resume and during interviews, framing it as a period of {{positive_activity}}?",
+    "Slash command": "/address_gaps"
+  },
+  {
+    "Prompt name": "Networking Email",
+    "Prompt text": "Compose an email to a contact at {{target_company}} requesting an informational interview to learn more about their experience in {{department}}.",
+    "Slash command": "/networking_email"
+  },
+  {
+    "Prompt name": "Recruiter Intro",
+    "Prompt text": "Craft an introduction to a recruiter, highlighting my experience in {{industry}} and my interest in {{job_type}} roles.",
+    "Slash command": "/recruiter_intro"
+  },
+  {
+    "Prompt name": "Ideal Company",
+    "Prompt text": "Describe my ideal company culture, emphasizing {{company_values}} and opportunities for {{career_growth}}.",
+    "Slash command": "/ideal_company"
+  },
+  {
+    "Prompt name": "Salary Justification",
+    "Prompt text": "How can I justify my salary expectations of {{desired_salary}} based on my experience in {{skill_area}} and the market rate for {{job_title}} roles?",
+    "Slash command": "/salary_justify"
+  },
+  {
+    "Prompt name": "Professional Bio",
+    "Prompt text": "Create a short professional bio that highlights my key skills: {{list_of_skills}}.",
+    "Slash command": "/professional_bio"
+  },
+  {
+    "Prompt name": "Job Application",
+    "Prompt text": "Tailor a job application to highlight my {{key_skill}} and {{another_key_skill}} skills in order to meet the application requirements of a {{job_title}} role.",
+    "Slash command": "/tailor_job_app"
+  },
+  {
+    "Prompt name": "Resume Objective",
+    "Prompt text": "Write a resume objective statement that highlights my intention to leverage my {{years_experience}} years of experience in {{area_of_expertise}} to the benefit of a {{job_title}} role.",
+    "Slash command": "/resume_objective"
+  }
+]

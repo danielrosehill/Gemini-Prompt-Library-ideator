@@ -1,0 +1,11 @@
+Prompt category,Prompt name,Prompt text,Slash command
+Debugging,Explain Error,Explain this error message: `{{error_message}}` in the context of `{{code_snippet}}`.,/explain_error
+Debugging,Find Bug,Find the bug in this code: `{{code_snippet}}`. Explain the bug and suggest a fix.,/find_bug
+Debugging,Debug Steps,I'm trying to debug this code: `{{code_snippet}}`. What steps should I take to diagnose the problem?,/debug_steps
+Debugging,Fix My Code,Please fix this code snippet: `{{code_snippet}}`. The problem is that it {{problem_description}}.,/fix_code
+Debugging,Optimize Code,Optimize this code snippet for performance: `{{code_snippet}}`. The code is written in `{{language}}`.,/optimize_code
+Debugging,Refactor Code,Refactor this code snippet for better readability and maintainability: `{{code_snippet}}`. The code is written in `{{language}}`.,/refactor_code
+Debugging,Test Case,Generate a test case for this code: `{{code_snippet}}`. The code should `{{code_purpose}}`.,/test_case
+Debugging,Code Review,"Conduct a code review for this snippet: `{{code_snippet}}`. Focus on potential bugs, security vulnerabilities, and code style issues.",/code_review
+Debugging,Memory Leak,Check this code snippet for potential memory leaks: `{{code_snippet}}`. The code is written in `{{language}}`.,/memory_leak
+Debugging,Error Handling,Improve the error handling in this code snippet: `{{code_snippet}}`. The code is written in `{{language}}` and currently {{current_error_handling}}.,/error_handling

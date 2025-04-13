@@ -1,0 +1,102 @@
+[
+  {
+    "Prompt name": "Rewrite Article",
+    "Prompt text": "Rewrite the following article to be more {{tone}}: {{article_text}}",
+    "Slash command": "/rewrite_article"
+  },
+  {
+    "Prompt name": "Summarize Text",
+    "Prompt text": "Summarize the following text into {{num_sentences}} sentences: {{text}}",
+    "Slash command": "/summarize_text"
+  },
+  {
+    "Prompt name": "Proofread Text",
+    "Prompt text": "Proofread the following text and correct any grammatical errors or typos: {{text}}",
+    "Slash command": "/proofread_text"
+  },
+  {
+    "Prompt name": "Translate Text",
+    "Prompt text": "Translate the following text from {{source_language}} to {{target_language}}: {{text}}",
+    "Slash command": "/translate_text"
+  },
+  {
+    "Prompt name": "Expand on Point",
+    "Prompt text": "Expand on the following point from the text: {{point_to_expand}} in the context of {{text}}",
+    "Slash command": "/expand_point"
+  },
+  {
+    "Prompt name": "Simplify Language",
+    "Prompt text": "Simplify the language in the following text to be understandable by a {{target_audience}}: {{text}}",
+    "Slash command": "/simplify_language"
+  },
+  {
+    "Prompt name": "Change Tone",
+    "Prompt text": "Change the tone of the following text to be more {{desired_tone}}: {{text}}",
+    "Slash command": "/change_tone"
+  },
+  {
+    "Prompt name": "Extract Keywords",
+    "Prompt text": "Extract the keywords from the following text: {{text}}",
+    "Slash command": "/extract_keywords"
+  },
+  {
+    "Prompt name": "Text to Outline",
+    "Prompt text": "Create an outline from the following text: {{text}}",
+    "Slash command": "/text_to_outline"
+  },
+  {
+    "Prompt name": "Make Text More Concise",
+    "Prompt text": "Make the following text more concise: {{text}}",
+    "Slash command": "/make_concise"
+  },
+  {
+    "Prompt name": "Paraphrase Text",
+    "Prompt text": "Paraphrase the following text: {{text}}",
+    "Slash command": "/paraphrase_text"
+  },
+  {
+    "Prompt name": "Rewrite as Question",
+    "Prompt text": "Rewrite the following statement as a question: {{statement}}",
+    "Slash command": "/rewrite_question"
+  },
+  {
+    "Prompt name": "Generate Headlines",
+    "Prompt text": "Generate {{num_headlines}} headlines for the following text: {{text}}",
+    "Slash command": "/generate_headlines"
+  },
+  {
+    "Prompt name": "Convert to Bullet Points",
+    "Prompt text": "Convert the following text into a list of bullet points: {{text}}",
+    "Slash command": "/to_bullet_points"
+  },
+  {
+    "Prompt name": "Identify Bias",
+    "Prompt text": "Identify any biases present in the following text: {{text}}",
+    "Slash command": "/identify_bias"
+  },
+  {
+    "Prompt name": "Add Details",
+    "Prompt text": "Add more descriptive details to the following text focusing on {{aspect}}: {{text}}",
+    "Slash command": "/add_details"
+  },
+  {
+    "Prompt name": "Check for Plagiarism",
+    "Prompt text": "Check the following text for plagiarism: {{text}}",
+    "Slash command": "/check_plagiarism"
+  },
+  {
+    "Prompt name": "Correct Grammar",
+    "Prompt text": "Correct the grammar and spelling in the following text: {{text}}",
+    "Slash command": "/correct_grammar"
+  },
+  {
+    "Prompt name": "Formalize Text",
+    "Prompt text": "Formalize the following text to be suitable for a professional audience: {{text}}",
+    "Slash command": "/formalize_text"
+  },
+  {
+    "Prompt name": "Informalize Text",
+    "Prompt text": "Informalize the following text to be more conversational: {{text}}",
+    "Slash command": "/informalize_text"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Explain Error",
+    "Prompt text": "Explain this error message: `{{error_message}}` in the context of `{{code_snippet}}`.",
+    "Slash command": "/explain_error"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Find Bug",
+    "Prompt text": "Find the bug in this code: `{{code_snippet}}`. Explain the bug and suggest a fix.",
+    "Slash command": "/find_bug"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Debug Steps",
+    "Prompt text": "I'm trying to debug this code: `{{code_snippet}}`. What steps should I take to diagnose the problem?",
+    "Slash command": "/debug_steps"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Fix My Code",
+    "Prompt text": "Please fix this code snippet: `{{code_snippet}}`. The problem is that it {{problem_description}}.",
+    "Slash command": "/fix_code"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Optimize Code",
+    "Prompt text": "Optimize this code snippet for performance: `{{code_snippet}}`. The code is written in `{{language}}`.",
+    "Slash command": "/optimize_code"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Refactor Code",
+    "Prompt text": "Refactor this code snippet for better readability and maintainability: `{{code_snippet}}`. The code is written in `{{language}}`.",
+    "Slash command": "/refactor_code"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Test Case",
+    "Prompt text": "Generate a test case for this code: `{{code_snippet}}`. The code should `{{code_purpose}}`.",
+    "Slash command": "/test_case"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Code Review",
+    "Prompt text": "Conduct a code review for this snippet: `{{code_snippet}}`. Focus on potential bugs, security vulnerabilities, and code style issues.",
+    "Slash command": "/code_review"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Memory Leak",
+    "Prompt text": "Check this code snippet for potential memory leaks: `{{code_snippet}}`. The code is written in `{{language}}`.",
+    "Slash command": "/memory_leak"
+  },
+  {
+    "Prompt category": "Debugging",
+    "Prompt name": "Error Handling",
+    "Prompt text": "Improve the error handling in this code snippet: `{{code_snippet}}`. The code is written in `{{language}}` and currently {{current_error_handling}}.",
+    "Slash command": "/error_handling"
+  }
+]

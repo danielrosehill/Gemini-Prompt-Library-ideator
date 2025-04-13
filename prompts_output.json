@@ -1,0 +1,296 @@
+[
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Code Explain",
+    "Prompt text": "Explain this code snippet to me like I'm a beginner: [PASTE CODE HERE]",
+    "Slash command": "/explain-code"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Debug Code",
+    "Prompt text": "Debug this code, explain the error, and provide the corrected code: [PASTE CODE HERE]",
+    "Slash command": "/debug-code"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Optimize Code",
+    "Prompt text": "Optimize this code for better performance and readability: [PASTE CODE HERE]",
+    "Slash command": "/optimize-code"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Code Docstring",
+    "Prompt text": "Write a detailed docstring for this function/class: [PASTE CODE HERE]",
+    "Slash command": "/docstring"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Code Translate",
+    "Prompt text": "Translate this code from [SOURCE LANGUAGE] to [TARGET LANGUAGE]: [PASTE CODE HERE]",
+    "Slash command": "/translate-code"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Find Vulnerabilities",
+    "Prompt text": "Analyze this code for potential security vulnerabilities: [PASTE CODE HERE]",
+    "Slash command": "/find-vulns"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Write Unit Tests",
+    "Prompt text": "Write unit tests for this code using [TESTING FRAMEWORK]: [PASTE CODE HERE]",
+    "Slash command": "/write-tests"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Reverse Engineer",
+    "Prompt text": "Explain the functionality of this compiled code (reverse engineering): [PASTE CODE HERE]",
+    "Slash command": "/reverse-engineer"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Regex Generate",
+    "Prompt text": "Generate a regular expression to match: [DESCRIPTION OF PATTERN]",
+    "Slash command": "/regex-gen"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Regex Explain",
+    "Prompt text": "Explain what this regular expression does: [PASTE REGEX HERE]",
+    "Slash command": "/regex-explain"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Sysadmin Command",
+    "Prompt text": "What is the [OPERATING SYSTEM] command to [TASK DESCRIPTION]?",
+    "Slash command": "/sysadmin-cmd"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Cloud Deploy",
+    "Prompt text": "How do I deploy this application to [CLOUD PLATFORM] using [TECHNOLOGY/FRAMEWORK]?",
+    "Slash command": "/cloud-deploy"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Database Schema",
+    "Prompt text": "Design a database schema for [APPLICATION DESCRIPTION] using [DATABASE TYPE].",
+    "Slash command": "/db-schema"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "API Design",
+    "Prompt text": "Design a REST API endpoint for [FUNCTIONALITY] using [DATA FORMAT].",
+    "Slash command": "/api-design"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Troubleshoot Network",
+    "Prompt text": "Troubleshoot network connectivity issues for [APPLICATION/SERVICE]. Describe common causes and solutions.",
+    "Slash command": "/troubleshoot-net"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Write Bash Script",
+    "Prompt text": "Write a bash script to automate [TASK DESCRIPTION].",
+    "Slash command": "/write-bash"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Explain Algorithm",
+    "Prompt text": "Explain the [ALGORITHM NAME] algorithm and provide a Python implementation.",
+    "Slash command": "/explain-algo"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Data Structure",
+    "Prompt text": "Explain the [DATA STRUCTURE NAME] data structure and its use cases.",
+    "Slash command": "/data-struct"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Security Best Practices",
+    "Prompt text": "What are the security best practices for [TECHNOLOGY/FRAMEWORK]?",
+    "Slash command": "/security-best"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Scale Application",
+    "Prompt text": "How do I scale this [APPLICATION DESCRIPTION] application?",
+    "Slash command": "/scale-app"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "My Software Specs",
+    "Prompt text": "Here are my software specs: [PASTE SOFTWARE DETAILS]. Use this to contextualize your responses.",
+    "Slash command": "/my-sw-specs"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Explain This Error",
+    "Prompt text": "Explain this error message and how to fix it: [PASTE ERROR MESSAGE]",
+    "Slash command": "/explain-err"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Code Review",
+    "Prompt text": "Perform a code review on this code: [PASTE CODE HERE]. Focus on [SPECIFIC AREAS].",
+    "Slash command": "/code-review"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Learn New Tech",
+    "Prompt text": "I want to learn about [TECHNOLOGY]. Give me a step-by-step guide.",
+    "Slash command": "/learn-tech"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Hardware Compare",
+    "Prompt text": "Compare these two hardware components: [COMPONENT 1] vs [COMPONENT 2]",
+    "Slash command": "/hw-compare"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Software Compare",
+    "Prompt text": "Compare these two software options: [SOFTWARE 1] vs [SOFTWARE 2]",
+    "Slash command": "/sw-compare"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Tech Trends",
+    "Prompt text": "What are the current technology trends in [INDUSTRY]?",
+    "Slash command": "/tech-trends"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Research Paper Summary",
+    "Prompt text": "Summarize this research paper: [PASTE ABSTRACT OR LINK]",
+    "Slash command": "/paper-summary"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Explain Blockchain",
+    "Prompt text": "Explain blockchain technology to me as if I were five years old.",
+    "Slash command": "/explain-bc"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Explain AI",
+    "Prompt text": "Explain artificial intelligence to me as if I were five years old.",
+    "Slash command": "/explain-ai"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "AI Use Cases",
+    "Prompt text": "What are some use cases for AI in [INDUSTRY]?",
+    "Slash command": "/ai-usecases"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "My Project Idea",
+    "Prompt text": "I have an idea for a project: [DESCRIBE PROJECT]. What tech stack should I use?",
+    "Slash command": "/project-stack"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "IT Security News",
+    "Prompt text": "What are the latest IT security threats?",
+    "Slash command": "/itsec-news"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Data Science Roadmap",
+    "Prompt text": "Give me a roadmap to become a data scientist.",
+    "Slash command": "/ds-roadmap"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Build a PC",
+    "Prompt text": "Recommend parts for a PC build with a budget of [BUDGET] for [USE CASE].",
+    "Slash command": "/pc-build"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Mobile Dev Framework",
+    "Prompt text": "What's the best mobile development framework for [PLATFORM] and why?",
+    "Slash command": "/mobile-framework"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Cybersecurity Career",
+    "Prompt text": "How do I start a career in cybersecurity?",
+    "Slash command": "/cyber-career"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Ethical Hacking",
+    "Prompt text": "What are the basics of ethical hacking?",
+    "Slash command": "/ethical-hack"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Explain Quantum",
+    "Prompt text": "Explain quantum computing to me as if I were five years old.",
+    "Slash command": "/explain-quantum"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "IoT Devices",
+    "Prompt text": "What are some security considerations for IoT devices?",
+    "Slash command": "/iot-security"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "AR vs VR",
+    "Prompt text": "What are the key differences between Augmented Reality (AR) and Virtual Reality (VR)?",
+    "Slash command": "/ar-vs-vr"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Cloud Migration",
+    "Prompt text": "What are the best practices for migrating to the cloud?",
+    "Slash command": "/cloud-migrate"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "CI/CD Pipeline",
+    "Prompt text": "How do I set up a CI/CD pipeline using [TOOLS]?",
+    "Slash command": "/cicd-setup"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Data Visualization",
+    "Prompt text": "Recommend a data visualization library for [PROGRAMMING LANGUAGE] to show [TYPE OF DATA].",
+    "Slash command": "/data-viz"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Tech Interview Prep",
+    "Prompt text": "Give me some practice questions for a technical interview for [JOB TITLE].",
+    "Slash command": "/tech-interview"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "My Network Config",
+    "Prompt text": "Analyze this network configuration and identify potential issues: [PASTE NETWORK CONFIG]",
+    "Slash command": "/net-config"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Remote Work Setup",
+    "Prompt text": "Suggest best practices for a secure and productive remote work setup.",
+    "Slash command": "/remote-setup"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "Tech for Education",
+    "Prompt text": "What are some innovative uses of technology in education?",
+    "Slash command": "/tech-education"
+  },
+  {
+    "Prompt category": "Technology",
+    "Prompt name": "DevOps Explain",
+    "Prompt text": "Explain DevOps to me as if I were five years old.",
+    "Slash command": "/explain-devops"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Prompt name": "Email Draft - Promotion",
+    "Prompt text": "Draft an email promoting our new {{product_name}} with a {{discount_percentage}} discount. Highlight its key features: {{feature_1}}, {{feature_2}}, and {{feature_3}}. Target audience: {{target_audience}}.",
+    "Slash command": "/email-promo-draft"
+  },
+  {
+    "Prompt name": "Email Draft - Apology",
+    "Prompt text": "Compose an apology email to a customer, {{customer_name}}, regarding {{issue}}. Offer a {{resolution}} as compensation. Maintain a professional and empathetic tone.",
+    "Slash command": "/email-apology"
+  },
+  {
+    "Prompt name": "Email Draft - Follow Up",
+    "Prompt text": "Write a follow-up email to {{recipient_name}} after our meeting on {{date}} to discuss {{topic}}. Reiterate key points and suggest the next steps: {{next_steps}}.",
+    "Slash command": "/email-followup"
+  },
+  {
+    "Prompt name": "Email Draft - Invitation",
+    "Prompt text": "Create an invitation email for our upcoming event, {{event_name}}, on {{date}} at {{location}}. Include details about the speakers: {{speaker_1}}, {{speaker_2}}, and the agenda. Target audience: {{target_audience}}.",
+    "Slash command": "/email-invite"
+  },
+  {
+    "Prompt name": "Email Draft - Request",
+    "Prompt text": "Draft an email requesting {{request_details}} from {{recipient_name}}. Provide a clear explanation of why the request is important and the deadline: {{deadline}}.",
+    "Slash command": "/email-request"
+  },
+  {
+    "Prompt name": "Email Draft - Thank You",
+    "Prompt text": "Compose a thank-you email to {{recipient_name}} for {{reason}}. Express gratitude for their support and mention the impact of their contribution.",
+    "Slash command": "/email-thanks"
+  },
+  {
+    "Prompt name": "Email Draft - Announcement",
+    "Prompt text": "Write an announcement email about {{announcement_details}} to be sent to {{recipient_group}}. Highlight the key benefits and provide links to relevant resources.",
+    "Slash command": "/email-announce"
+  },
+  {
+    "Prompt name": "Email Draft - Feedback Request",
+    "Prompt text": "Create an email requesting feedback from {{recipient_name}} on {{subject}}. Ask specific questions about their experience and explain how their feedback will be used.",
+    "Slash command": "/email-feedback"
+  },
+  {
+    "Prompt name": "Email Draft - Reminder",
+    "Prompt text": "Draft a reminder email about {{event_or_task}} due on {{date}}. Include a brief overview and any relevant instructions or links.",
+    "Slash command": "/email-reminder"
+  },
+  {
+    "Prompt name": "Email Draft - Introduction",
+    "Prompt text": "Compose an email introducing {{person_1}} to {{person_2}}. Briefly explain their backgrounds and why they should connect. Mention their shared interests: {{shared_interests}}.",
+    "Slash command": "/email-intro"
+  }
+]

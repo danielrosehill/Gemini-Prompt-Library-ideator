@@ -1,0 +1,21 @@
+Prompt name,Prompt text,Slash command
+Rewrite Article,Rewrite the following article to be more {{tone}}: {{article_text}},/rewrite_article
+Summarize Text,Summarize the following text into {{num_sentences}} sentences: {{text}},/summarize_text
+Proofread Text,Proofread the following text and correct any grammatical errors or typos: {{text}},/proofread_text
+Translate Text,Translate the following text from {{source_language}} to {{target_language}}: {{text}},/translate_text
+Expand on Point,Expand on the following point from the text: {{point_to_expand}} in the context of {{text}},/expand_point
+Simplify Language,Simplify the language in the following text to be understandable by a {{target_audience}}: {{text}},/simplify_language
+Change Tone,Change the tone of the following text to be more {{desired_tone}}: {{text}},/change_tone
+Extract Keywords,Extract the keywords from the following text: {{text}},/extract_keywords
+Text to Outline,Create an outline from the following text: {{text}},/text_to_outline
+Make Text More Concise,Make the following text more concise: {{text}},/make_concise
+Paraphrase Text,Paraphrase the following text: {{text}},/paraphrase_text
+Rewrite as Question,Rewrite the following statement as a question: {{statement}},/rewrite_question
+Generate Headlines,Generate {{num_headlines}} headlines for the following text: {{text}},/generate_headlines
+Convert to Bullet Points,Convert the following text into a list of bullet points: {{text}},/to_bullet_points
+Identify Bias,Identify any biases present in the following text: {{text}},/identify_bias
+Add Details,Add more descriptive details to the following text focusing on {{aspect}}: {{text}},/add_details
+Check for Plagiarism,Check the following text for plagiarism: {{text}},/check_plagiarism
+Correct Grammar,Correct the grammar and spelling in the following text: {{text}},/correct_grammar
+Formalize Text,Formalize the following text to be suitable for a professional audience: {{text}},/formalize_text
+Informalize Text,Informalize the following text to be more conversational: {{text}},/informalize_text

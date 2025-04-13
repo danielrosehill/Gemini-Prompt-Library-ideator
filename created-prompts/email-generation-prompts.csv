@@ -1,0 +1,11 @@
+Prompt name,Prompt text,Slash command
+Email Draft - Promotion,"Draft an email promoting our new {{product_name}} with a {{discount_percentage}} discount. Highlight its key features: {{feature_1}}, {{feature_2}}, and {{feature_3}}. Target audience: {{target_audience}}.",/email-promo-draft
+Email Draft - Apology,"Compose an apology email to a customer, {{customer_name}}, regarding {{issue}}. Offer a {{resolution}} as compensation. Maintain a professional and empathetic tone.",/email-apology
+Email Draft - Follow Up,Write a follow-up email to {{recipient_name}} after our meeting on {{date}} to discuss {{topic}}. Reiterate key points and suggest the next steps: {{next_steps}}.,/email-followup
+Email Draft - Invitation,"Create an invitation email for our upcoming event, {{event_name}}, on {{date}} at {{location}}. Include details about the speakers: {{speaker_1}}, {{speaker_2}}, and the agenda. Target audience: {{target_audience}}.",/email-invite
+Email Draft - Request,Draft an email requesting {{request_details}} from {{recipient_name}}. Provide a clear explanation of why the request is important and the deadline: {{deadline}}.,/email-request
+Email Draft - Thank You,Compose a thank-you email to {{recipient_name}} for {{reason}}. Express gratitude for their support and mention the impact of their contribution.,/email-thanks
+Email Draft - Announcement,Write an announcement email about {{announcement_details}} to be sent to {{recipient_group}}. Highlight the key benefits and provide links to relevant resources.,/email-announce
+Email Draft - Feedback Request,Create an email requesting feedback from {{recipient_name}} on {{subject}}. Ask specific questions about their experience and explain how their feedback will be used.,/email-feedback
+Email Draft - Reminder,Draft a reminder email about {{event_or_task}} due on {{date}}. Include a brief overview and any relevant instructions or links.,/email-reminder
+Email Draft - Introduction,Compose an email introducing {{person_1}} to {{person_2}}. Briefly explain their backgrounds and why they should connect. Mention their shared interests: {{shared_interests}}.,/email-intro
